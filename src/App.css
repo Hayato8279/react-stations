@@ -1,0 +1,23 @@
+.header{
+    background-color: #f5f5f5;
+}
+
+.select{
+    display: 'flex';
+    align-Items: 'center';
+    gap: '8px';
+}
+
+.image{ 
+    display: 'flex';
+    flex-Wrap: 'wrap';
+    gap: '10px';
+    margin-Top:'16px';
+}
+
+.dog-image{ 
+    width: '150px';
+    height: '150px';
+    object-Fit: 'cover';
+    border-Radius: '8px';
+}

@@ -1,7 +1,13 @@
 // @ts-check
 
+/**
+ * @type {() => JSX.Element}
+ */
+
 export const Header = () => {
-  return <></>
+  return (
+  <header className='header'>Dogアプリ</header>
+  )  
 }
 
 export default Header
